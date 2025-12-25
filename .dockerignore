@@ -10,7 +10,6 @@ node_modules
 venv
 .env
 *.pt
-*.h5
 *.onnx
 data/
 datasets/
