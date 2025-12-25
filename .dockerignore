@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.git
+.gitignore
+node_modules
+venv
+.env
+*.pt
+*.h5
+*.onnx
+data/
+datasets/
+uploads/
