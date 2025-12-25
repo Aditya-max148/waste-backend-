@@ -2,3 +2,4 @@ flask
 gunicorn
 numpy
 opencv-python-headless
+tensorflow-cpu==2.12.0
